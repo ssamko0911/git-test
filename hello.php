@@ -1,4 +1,5 @@
 <?php
+Extra
 echo "Default Syntax";
 ?>
 View the example (with default tag syntax) in the browser.
