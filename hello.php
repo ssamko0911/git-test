@@ -8,6 +8,7 @@ Short open Tags
 
 The short tags starts with "<?" and ends with "?>". Short style tags are only available when they are enabled in php.ini configuration file on servers.
 
+Some extra
 Example:
 
 <?
