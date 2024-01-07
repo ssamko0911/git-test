@@ -1,6 +1,6 @@
 changes+++
 This is a test.
-Another change!
+Another useful change!
 
 
 Here are some new changes to test conflicts.
