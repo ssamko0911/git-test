@@ -1,3 +1,4 @@
 changes+++
 This is a test.
 
+Here are some new changes to test conflicts.
