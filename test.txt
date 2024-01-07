@@ -7,3 +7,4 @@ New!
 Here are some new changes to test conflicts.
 
 we are doing some refactoring.
+some more!
